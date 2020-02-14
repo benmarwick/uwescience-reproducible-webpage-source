@@ -77,6 +77,23 @@ aboutProduct:
   title : "Recent Events"
   image : ""
   items:
+  
+    # about product item loop
+    - image : "images/rmd4sci.png"
+      title : "'R Markdown for Scientists: A hands-on workshop', a workshop by Nicholas Tierney (13 Feb 2020)"
+      content : "This workshop will teach participants how to write a reproducible scholarly report or paper using R Markdown.
+      For a scientific report to be completely credible, it must be reproducible. The full computational 
+      environment used to derive the results, including the data and code used for statistical analysis should be 
+      available for others to reproduce. R Markdown is a tool that allows you to integrate your code, text and 
+      figures in a single file in order to make high quality, reproducible reports. A paper published with an 
+      included R Markdown file and data sets can be reproduced by anyone with a compute. The workshop is based on 
+      Dr Tierney's book, online at https://rmd4sci.njtierney.com/ <a href='https://www.njtierney.com/'>Nicholas Tierney, Ph.D.</a> is
+      a Lecturer at Monash University, working with Di Cook and Rob Hyndman in the <a href='http://dicook.org/'>NUMBAT</a> group. 
+      Nick is a central member of the rOpenSci community, a collective that works to make science open using R. He
+      was the lead organiser of the rOpenSci ozunconf for 2016, 2017, and 2018. Dr Tierney also gave a seminar at the 
+      eScience Institute on Friday 14 Feb, titled 'A Realistic Guide to Making Data Available Alongside Code to 
+      Improve Reproducibility', based on his pre-print with Karthik Ram, <a href='https://github.com/karthik/ddd'>online at GitHub</a>. 
+      <a href='https://www.youtube.com/watch?v=HjTLTiAWk1g'>Slides are now online!</a>" 
 
     # about product item loop
     - image : "images/openscapes_hex_design_final_correct_dimensions.png"
