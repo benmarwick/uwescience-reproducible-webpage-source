@@ -139,7 +139,7 @@ aboutProduct:
 
     # about product item loop
     - image : "images/corina.png"
-      title : "'How to improve the value of your research by making it verifiable', a seminar by Cornina Logan (13 Aug 2019)"
+      title : "'How to improve the value of your research by making it verifiable', a seminar by Corina Logan (13 Aug 2019)"
       content : "There is a desperate need to reform the production and dissemination of scholarly outputs to increase 
       transparency, reproducibility, timeliness, and academic rigor. Evidence suggests that open practices actually 
       help researchers rather than hinder them. Logan will discuss what researchers are doing to address these 
