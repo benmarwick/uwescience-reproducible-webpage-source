@@ -138,6 +138,24 @@ aboutProduct:
       <a href='https://washington.zoom.us/recording/share/sVx1yCxfCW1ZnKcn_hka3Zv_wnEe0h30pBCgRLf6EsqwIumekTziMw?startTime=1572383189000'>Slides and video are now online!</a>" 
 
     # about product item loop
+    - image : "images/corina.png"
+      title : "'How to improve the value of your research by making it verifiable', a seminar by Cornina Logan (13 Aug 2019)"
+      content : "There is a desperate need to reform the production and dissemination of scholarly outputs to increase 
+      transparency, reproducibility, timeliness, and academic rigor. Evidence suggests that open practices actually 
+      help researchers rather than hinder them. Logan will discuss what researchers are doing to address these 
+      issues by sharing ways to facilitate higher quality research and tackle biases in this rapidly changing 
+      world of academia and scholarly publishing. <a href='http://corinalogan.com/'>Corina Logan</a> investigates how 
+      behavioral flexibility relates to invasion success in grackles (an urban bird) and humans as a Senior Researcher at 
+      the <a href='https://www.eva.mpg.de/index.html'>Max Planck Institute for Evolutionary Anthropology</a>. She co-leads 
+      the <a href='http://bulliedintobadscience.org/'>#BulliedIntoBadScience</a> campaign where early career 
+      researchers are working to change academic culture to adopt open research practices to improve 
+      research rigor. You can sign the letter and endorse the campaign at http://bulliedintobadscience.org. 
+      Follow along as she learns about grackles, implicit biases, and verifiable research on Twitter 
+      <a href='https://twitter.com/LoganCorina'>@LoganCorina</a>, and at her website (http://corinalogan.com).
+      <a href='https://osf.io/96d3s/'>Slides are now online!</a>" 
+
+
+    # about product item loop
     - image : "images/writing-repro.png"
       title : "Writing Reproducible & Executable Scientific Papers with R & Python: a Hands-On Workshop (10-11 Jun 2019)"
       content : "This workshop is co-sponsored by the UW eScience Special Interest Group on Reproducible 
